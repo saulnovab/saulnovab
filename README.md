@@ -1,16 +1,69 @@
-## Hi there 👋
+# Saul Nova
 
-<!--
-**saulnovab/saulnovab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+OT Systems & Cybersecurity Engineer
 
-Here are some ideas to get you started:
+Industrial Networking • Cisco Enterprise & Industrial • Manufacturing Systems • Python & AI Diagnostics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Engineer focused on industrial networks, manufacturing systems and Python/AI tools for diagnostics and operational reliability.
+
+I work at the intersection of **manufacturing operations, OT infrastructure, cybersecurity and industrial diagnostics**, helping production systems remain reliable, secure and operational.
+
+---
+
+## Industrial & Technical Focus
+
+• OT Systems & Infrastructure  
+• OT Cybersecurity  
+• Industrial Networking  
+• Manufacturing Systems Diagnostics  
+• Operational Reliability & OPEX  
+• Industrial Data Analysis & Python Tools  
+
+---
+
+## Networking & Infrastructure
+
+Experience designing, supporting and troubleshooting **enterprise and industrial networks**.
+
+**Industrial Networking**
+- Hirschmann industrial switches
+- Cisco Industrial Ethernet
+- VLAN segmentation in OT environments
+- Industrial Ethernet architecture
+
+**Enterprise Networking**
+- Cisco enterprise switching
+- Cisco Wi-Fi infrastructure
+- Wireless coverage analysis & optimization
+- Network diagnostics and reliability
+
+---
+
+## Engineering & Technical Tools
+
+- Python
+- AI-assisted diagnostics
+- Industrial log analysis
+- System diagnostics
+- Network troubleshooting
+- Operational analytics
+
+---
+
+## Leadership & Operations
+
+• Technical leadership and team coordination  
+• Resource planning and execution  
+• Cross-functional collaboration between IT, OT and operations  
+• Operational excellence mindset (OPEX)  
+• Root cause investigation and problem resolution  
+
+---
+
+## Engineering Philosophy
+
+Real industrial systems require **reliability, security and practical engineering**.
+
+Technology should help **operators, engineers and production systems perform better**, not add unnecessary complexity.
+
+My focus is always on **practical solutions for real manufacturing environments.**
